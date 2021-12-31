@@ -1,2 +1,2 @@
-# ag-all-rows-data-dynamic
+# react-ag-grid-updated
 Created with CodeSandbox
